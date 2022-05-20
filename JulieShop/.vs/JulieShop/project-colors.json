@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70b536b8-459c-45cb-b066-0f6ff8b2e68a": {
+      "ProjectGuid": "70b536b8-459c-45cb-b066-0f6ff8b2e68a",
+      "DisplayName": "JulieShop.Domain",
+      "ColorIndex": 0
+    },
+    "57bb253f-5e63-4b76-9de4-44d041afd9f7": {
+      "ProjectGuid": "57bb253f-5e63-4b76-9de4-44d041afd9f7",
+      "DisplayName": "JulieShop.Infrastructure",
+      "ColorIndex": 1
+    },
+    "589df3f5-0fd9-463d-a945-f5aca4daa478": {
+      "ProjectGuid": "589df3f5-0fd9-463d-a945-f5aca4daa478",
+      "DisplayName": "JulieShop.Application",
+      "ColorIndex": 2
+    },
+    "e86b3934-3ea8-4809-a132-9a0747ad0576": {
+      "ProjectGuid": "e86b3934-3ea8-4809-a132-9a0747ad0576",
+      "DisplayName": "JulieShopWebUI",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,11 @@
+E:\Projects\JulieShop\JulieShop\JulieShop.Domain\bin\Debug\net6.0\JulieShop.Domain.deps.json
+E:\Projects\JulieShop\JulieShop\JulieShop.Domain\bin\Debug\net6.0\JulieShop.Domain.dll
+E:\Projects\JulieShop\JulieShop\JulieShop.Domain\bin\Debug\net6.0\ref\JulieShop.Domain.dll
+E:\Projects\JulieShop\JulieShop\JulieShop.Domain\bin\Debug\net6.0\JulieShop.Domain.pdb
+E:\Projects\JulieShop\JulieShop\JulieShop.Domain\obj\Debug\net6.0\JulieShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\JulieShop\JulieShop\JulieShop.Domain\obj\Debug\net6.0\JulieShop.Domain.AssemblyInfoInputs.cache
+E:\Projects\JulieShop\JulieShop\JulieShop.Domain\obj\Debug\net6.0\JulieShop.Domain.AssemblyInfo.cs
+E:\Projects\JulieShop\JulieShop\JulieShop.Domain\obj\Debug\net6.0\JulieShop.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\JulieShop\JulieShop\JulieShop.Domain\obj\Debug\net6.0\JulieShop.Domain.dll
+E:\Projects\JulieShop\JulieShop\JulieShop.Domain\obj\Debug\net6.0\ref\JulieShop.Domain.dll
+E:\Projects\JulieShop\JulieShop\JulieShop.Domain\obj\Debug\net6.0\JulieShop.Domain.pdb

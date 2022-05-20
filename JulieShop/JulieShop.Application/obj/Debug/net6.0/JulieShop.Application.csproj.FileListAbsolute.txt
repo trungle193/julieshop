@@ -1,0 +1,12 @@
+E:\Projects\JulieShop\JulieShop\JulieShop.Application\bin\Debug\net6.0\JulieShop.Application.deps.json
+E:\Projects\JulieShop\JulieShop\JulieShop.Application\bin\Debug\net6.0\JulieShop.Application.dll
+E:\Projects\JulieShop\JulieShop\JulieShop.Application\bin\Debug\net6.0\ref\JulieShop.Application.dll
+E:\Projects\JulieShop\JulieShop\JulieShop.Application\bin\Debug\net6.0\JulieShop.Application.pdb
+E:\Projects\JulieShop\JulieShop\JulieShop.Application\obj\Debug\net6.0\JulieShop.Application.csproj.AssemblyReference.cache
+E:\Projects\JulieShop\JulieShop\JulieShop.Application\obj\Debug\net6.0\JulieShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\JulieShop\JulieShop\JulieShop.Application\obj\Debug\net6.0\JulieShop.Application.AssemblyInfoInputs.cache
+E:\Projects\JulieShop\JulieShop\JulieShop.Application\obj\Debug\net6.0\JulieShop.Application.AssemblyInfo.cs
+E:\Projects\JulieShop\JulieShop\JulieShop.Application\obj\Debug\net6.0\JulieShop.Application.csproj.CoreCompileInputs.cache
+E:\Projects\JulieShop\JulieShop\JulieShop.Application\obj\Debug\net6.0\JulieShop.Application.dll
+E:\Projects\JulieShop\JulieShop\JulieShop.Application\obj\Debug\net6.0\ref\JulieShop.Application.dll
+E:\Projects\JulieShop\JulieShop\JulieShop.Application\obj\Debug\net6.0\JulieShop.Application.pdb

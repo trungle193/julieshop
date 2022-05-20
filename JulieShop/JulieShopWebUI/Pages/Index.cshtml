@@ -1,0 +1,19 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page 1";
+}
+<ul class="list-unstyled list-inline">
+   @{
+        foreach (var i in Model.Categories)
+        {
+           <li><a href="#">@i.Name</a></li>
+          
+        }
+    }
+</ul>
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
